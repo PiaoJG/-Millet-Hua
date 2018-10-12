@@ -1,0 +1,2 @@
+# -Millet-Hua
+Professional life accounting software, grasp the flow of funds anytime, anywhere Simple billing process, easy to get started Complete classification, support for custom categories, second stop water  Features: The input speed is fast and saves time. The design is simple and only provides the most needed accounting functions. A variety of categories, understanding the type of consumption is easy to book. Accurate classification, clear and intuitive spending plan.
